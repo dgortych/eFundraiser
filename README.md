@@ -13,7 +13,7 @@ To make a donation you have to sign up, then you can choose if you
 want to stay anonymous or share your username. To create a new fundraiser
 you have to be a verified user.
 
-###Screenshots:
+### Screenshots:
 
 Main view is a list of latest fundraisers, donations and top users.
 
